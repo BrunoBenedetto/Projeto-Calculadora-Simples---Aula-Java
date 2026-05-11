@@ -80,9 +80,3 @@ A aplicação permite realizar operações matemáticas básicas de forma simple
 - O sistema permanece em execução continuamente até ser fechado manualmente.
 
 ---
-
-<div align="center">
-
-⭐ Projeto desenvolvido para prática de lógica de programação e Java ⭐
-
-</div>
